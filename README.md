@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaisakh V Namboothiri. 😁
 - 📚 I love to learn programming. 😊
-- 🌱 I’m currently learning Python Core. 🐍
+- 🌱 I’m currently learning Data Science using Python 🐍
 - 🐈 My pet cat is Max. He's in my profile
 picture. 😸
 
